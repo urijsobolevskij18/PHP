@@ -1,0 +1,4 @@
+ </style>
+</head>
+<body>
+    <h1>PHP Mario Game</h1>
